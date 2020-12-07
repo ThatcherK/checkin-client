@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.current{
+  color: rgb(192, 128, 8);;
+}
+.navlinks a {
+  text-decoration: none;
+  margin-right: 20px;
+  color: whitesmoke;
+}
+/* .navlinks:hover{
+  color: rgb(161, 108, 8);
+} */
+.signinContainer{
+  display: flex;
+  flex-direction: column;
+}
+.signinForm{
+  padding: 100px;
+}
+.tableContainer{
+  padding: 100px;
+}
+.editButton{
+  border: none;
+  background: none;
+}
+i{
+  color: blue;
+}
+.addVisitorButton{
+  border: none;
+  color: blue;
+}
+.addVisitorButton:hover{
+  color: rgb(8, 8, 145);
+}
